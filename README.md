@@ -25,5 +25,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 <h2>Demo Link:</h2>
 https://react-image360viewer.vercel.app/
 
-<h4>How to reach me</h4> :anoopnayak1@gmail.com
+<h4>How to reach me: anoopnayak1@gmail.com</h4>
 
